@@ -1,0 +1,7 @@
+---
+sidebar_position: 1
+---
+
+# MultiSeven Docs
+
+This is the MultiSeven Documentation.
