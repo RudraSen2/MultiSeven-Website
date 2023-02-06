@@ -72,7 +72,7 @@ const config = {
         items: [
           {to: '/docs', label: 'Documentation', position: 'left'},
           {to: '/products', label: 'Products', position: 'left'},
-          {to: '/pricings', label: 'Pricings', position: 'left'},
+          {to: '/pricing', label: 'Pricing', position: 'left'},
           {to: '/contact', label: 'Contact', position: 'left'},
 
           // Please keep GitHub link to the right for consistency.
